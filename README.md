@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center" ><img  src = "https://giffiles.alphacoders.com/174/1744.gif" width = 100px></p>
 
 <!--
 **samithaLTD/samithaLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
