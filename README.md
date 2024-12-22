@@ -1,16 +1,39 @@
-<p align="center" ><img  src = "https://giffiles.alphacoders.com/174/1744.gif" width = 100px></p>
+<br>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></p>
+<br><br>
 
-<!--
-**samithaLTD/samithaLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Favorite Distros</h3>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,kali"/>
+  </a>
+</h1>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages && Frameworks</h3>
+
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,js,java"/>
+  </a>
+</h1>
+
+<br>
+<h3 align="center">Machine Learning</h3>
+
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+  </a>
+</h1>
+<h3 align="center">Tools && Technologies</h3>
+
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,arduino,raspberrypi,figma"/>
+  </a>
+</h1>
+
+<br>
+
