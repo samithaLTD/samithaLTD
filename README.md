@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,java"/>
+    <img src="https://skillicons.dev/icons?i=c,python,js,java,qt"/>
   </a>
 </h1>
 
@@ -32,7 +32,7 @@
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,arduino,raspberrypi,figma"/>
+    <img src="https://skillicons.dev/icons?i=docker,terraform,kubernetes,git,postman,arduino,raspberrypi,figma,elasticsearch"/>
   </a>
 </h1>
 
